@@ -1,0 +1,14 @@
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\BasketClassLibrary.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\BasketEndPointClassLibrary.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\BasketClassLibrary.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\BasketEndPointClassLibrary.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml

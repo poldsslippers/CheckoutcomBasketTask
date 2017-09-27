@@ -1,0 +1,12 @@
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\BasketEndPointClassLibrary.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\BasketEndPointClassLibrary.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\BasketClassLibrary.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\BasketClassLibrary.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\obj\Debug\BasketEndPointClassLibrary.csprojResolveAssemblyReference.cache
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\obj\Debug\BasketEndPointClassLibrary.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\obj\Debug\BasketEndPointClassLibrary.pdb
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\tasks\Checkout\CheckoutBasketTask\BasketEndPointClassLibrary\bin\Debug\BasketEndPointClassLibrary.dll.config
